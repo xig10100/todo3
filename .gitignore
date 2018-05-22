@@ -34,3 +34,4 @@ Homestead.json
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
 >>>>>>> 177cb566b5de74562276545c59d7a64ebccacfd0
+composer.phar
